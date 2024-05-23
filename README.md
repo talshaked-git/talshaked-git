@@ -1,6 +1,6 @@
 # Hello, I'm Tal Shaked! 👋
 
-I'm a Software Engineer passionate about Cybersecurity, Automation, and QA. Here you'll find some of my projects and contributions.
+I'm a Software Engineer passionate about Cybersecurity, Automation, and QA.
 
 ## About Me
 
