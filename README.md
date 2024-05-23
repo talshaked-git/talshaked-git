@@ -16,5 +16,9 @@ I'm a Software Engineer passionate about Cybersecurity, Automation, and QA.
 ## Languages, Tools and Databases
 
 - Python, C, C++ ,C#
-- Git, GitHub, VS Code, Unity Engine, Unreal Engine, Splunk, Wireshark.
-- SQL, PostgreSQL, Firebase, MongoDB
+- Git, GitHub, VS Code, Selenium, Unity Engine, Unreal Engine, Splunk, Wireshark.
+- MySQL, Postgres, Firebase, MongoDB
+
+
+## Excerises
+[LeetCode](https://leetcode.com/u/TalShaked/)
