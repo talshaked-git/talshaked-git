@@ -4,7 +4,7 @@ I'm a Software Engineer passionate about Cybersecurity, Automation, and QA.
 
 ## About Me
 
-- 🌱 I’m currently learning Python, Blue and Red hat roles such as SOC Analyst, Pentester, Volnerability researcher and more!.
+- 🌱 I’m currently learning Python, Blue and Red hat roles such as SOC Analyst, Pentester, Vulnerability Researcher and more!.
 - 👯 I’m looking to collaborate on Python and Cybers Security projects.
 - 💬 Ask me about Cybersecurity, Linux and anything you'd like, I would try my best to assist and contribute my knowledge.
 - 📫 How to reach me: [Email](mailto:talshaked94@email.com), [LinkedIn](https://www.linkedin.com/in/talshaked1/).
